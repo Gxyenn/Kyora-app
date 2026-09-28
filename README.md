@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kyora — pemutar anime untuk Android" />
+<img src="assets/banner.svg" width="100%" alt="Kyora — stream anime untuk Android" />
 
 <br/>
 
 <a href="https://github.com/Gxyenn/Kyora-app/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=20&pause=1300&color=C4B5FD&center=true&vCenter=true&width=760&height=46&lines=Pemutar+anime+untuk+Android;Ringan.+Tenang.+Rapi.;Ditonton+langsung+di+dalam+aplikasi" alt="Kyora" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=20&pause=1300&color=C4B5FD&center=true&vCenter=true&width=760&height=46&lines=Stream+anime+untuk+Android;Ringan.+Tenang.+Rapi.;Ditonton+langsung+di+dalam+aplikasi" alt="Kyora" />
 </a>
 
 <br/>
@@ -66,7 +66,7 @@
 </td>
 <td width="33%" valign="top" align="center">
 
-**Pemutar**
+**Streaming**
 
 <sub>Pilih resolusi, atur kecepatan 0,25×–2×, subtitle, kunci layar, layar penuh, maju-mundur 10 detik.</sub>
 
@@ -240,7 +240,7 @@ laporkan supaya bisa diperiksa.
 
 ### Dikembangkan oleh [Gxyenn](https://github.com/Gxyenn)
 
-<sub>Kyora hanya pemutar. Seluruh video dialirkan dari sumber yang disediakan penyedia katalog;<br/>
+<sub>Kyora hanya aplikasi stream. Seluruh video dialirkan dari sumber yang disediakan penyedia katalog;<br/>
 tidak ada konten yang di-host di repositori ini.</sub>
 
 <br/><br/>
