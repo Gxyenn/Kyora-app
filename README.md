@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/Gxyenn/Kyora-app/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=20&pause=1300&color=C4B5FD&center=true&vCenter=true&width=760&height=46&lines=Stream+anime+untuk+Android;Ringan.+Tenang.+Rapi.;Ditonton+langsung+di+dalam+aplikasi" alt="Kyora" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=20&pause=1300&color=C4B5FD&center=true&vCenter=true&width=760&height=46&lines=Stream+anime+sub+Indo;Ringan.+Tenang.+Rapi.;Nonton+langsung+di+dalam+aplikasi" alt="Kyora" />
 </a>
 
 <br/>
@@ -32,6 +32,16 @@
 <a href="https://github.com/Gxyenn/Kyora-app/issues">
   <img src="https://img.shields.io/badge/LAPOR_MASALAH-2B2738?style=for-the-badge&labelColor=14121B&logo=github&logoColor=C4B5FD" alt="Laporkan masalah" />
 </a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+
+**Kyora** adalah aplikasi **stream anime sub Indo** untuk Android — ringan, cepat, dan rapi.
+Nonton anime *ongoing* sampai *completed*, cek **jadwal rilis anime**, simpan **koleksi**, dan
+bahas tiap episode lewat **komentar**. Gratis, dan tanpa iklan yang menutupi tayangan.
 
 </div>
 
@@ -240,8 +250,8 @@ laporkan supaya bisa diperiksa.
 
 ### Dikembangkan oleh [Gxyenn](https://github.com/Gxyenn)
 
-<sub>Kyora hanya aplikasi stream. Seluruh video dialirkan dari sumber yang disediakan penyedia katalog;<br/>
-tidak ada konten yang di-host di repositori ini.</sub>
+<sub>Kyora adalah aplikasi <b>stream anime sub Indo</b> untuk Android. Seluruh video dialirkan dari sumber
+yang disediakan penyedia katalog;<br/>tidak ada konten yang di-host di repositori ini.</sub>
 
 <br/><br/>
 
