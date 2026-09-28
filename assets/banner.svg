@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Kyora — pemutar anime Android">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0814"/>
+      <stop offset="55%" stop-color="#090910"/>
+      <stop offset="100%" stop-color="#0E0A1E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="word" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+      <animate attributeName="x1" values="-1;1;-1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2;0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <circle cx="260" cy="70" r="300" fill="url(#glowA)">
+    <animate attributeName="cx" values="260;430;260" dur="16s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="70;150;70" dur="19s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="250" r="320" fill="url(#glowB)">
+    <animate attributeName="cx" values="980;800;980" dur="21s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="250;170;250" dur="17s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#C4B5FD">
+    <circle cx="150" cy="220" r="2.4" opacity="0.55">
+      <animate attributeName="cy" values="230;120;230" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="150" r="1.8" opacity="0.4">
+      <animate attributeName="cy" values="160;70;160" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="110" r="2.2" opacity="0.45">
+      <animate attributeName="cy" values="120;230;120" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.12;0.65;0.12" dur="15s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="180" r="1.6" opacity="0.35">
+      <animate attributeName="cy" values="190;80;190" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.1;0.55;0.1" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="60" r="2" opacity="0.3">
+      <animate attributeName="cy" values="70;200;70" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.08;0.5;0.08" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="600" y="150" text-anchor="middle"
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="104" font-weight="800" letter-spacing="10" fill="url(#word)">KYORA</text>
+
+  <text x="600" y="196" text-anchor="middle"
+        font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="600" letter-spacing="7" fill="#B9B4C7">PEMUTAR ANIME ANDROID</text>
+
+  <rect x="420" y="222" width="360" height="2.5" rx="1.25" fill="url(#line)">
+    <animate attributeName="width" values="120;360;120" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="540;420;540" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
