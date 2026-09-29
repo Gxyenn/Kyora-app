@@ -124,7 +124,7 @@ bahas tiap episode lewat **komentar**. Gratis, dan tanpa iklan yang menutupi tay
 
 **Unduhan**
 
-<sub>Tautan unduhan multi-server untuk setiap episode, dipisah per kualitas.</sub>
+<sub>Unduh langsung dari berkas yang diputar, dipisah per kualitas, dengan konfirmasi lebih dulu.</sub>
 
 </td>
 <td valign="top" align="center">
@@ -132,6 +132,29 @@ bahas tiap episode lewat **komentar**. Gratis, dan tanpa iklan yang menutupi tay
 **Pembaruan mandiri**
 
 <sub>Versi baru ditawarkan, diunduh, lalu dibuka pemasangnya sendiri. Tinggal tekan Pasang.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+
+**Profil**
+
+<sub>Ganti foto atau pilih ikon profil, ubah nama tampilan, dan simpan perubahannya dari satu halaman.</sub>
+
+</td>
+<td valign="top" align="center">
+
+**Notifikasi**
+
+<sub>Kabar episode baru lengkap dengan poster, balasan komentar, dan pesan pribadi.</sub>
+
+</td>
+<td valign="top" align="center">
+
+**Riwayat & lanjut tonton**
+
+<sub>Lanjutkan tontonan dari posisi terakhir; ketuk riwayat untuk langsung masuk ke layar Tonton.</sub>
 
 </td>
 </tr>
