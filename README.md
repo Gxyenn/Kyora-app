@@ -78,7 +78,7 @@ bahas tiap episode lewat **komentar**. Gratis, dan tanpa iklan yang menutupi tay
 
 **Streaming**
 
-<sub>Pilih resolusi, atur kecepatan 0,25×–2×, subtitle, kunci layar, layar penuh, maju-mundur 10 detik.</sub>
+<sub>Pilih resolusi, atur kecepatan 0,25×–2×, subtitle, kunci layar, layar penuh, maju-mundur 10 detik, plus tombol <b>Lewati Intro/Outro</b> yang muncul sendiri saat bagian itu berjalan.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
